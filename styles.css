@@ -19,7 +19,7 @@ h1 {
 
 .container {
   background-color: aliceblue;
-  width: 50vw;
+  width: 60vw;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
   height: 100vh;
   display: flex;
